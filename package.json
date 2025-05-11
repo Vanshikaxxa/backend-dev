@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Vanshikha Sri"
+	"author": "Vanshikha Sri",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
